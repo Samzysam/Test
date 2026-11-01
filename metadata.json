@@ -1,0 +1,7 @@
+{
+  "name": "NovaArcade — Mobile Gaming Hub",
+  "description": "Modern, premium mobile arcade platform for casual, strategy, puzzle, board, and multiplayer games with solo AI play, same-device pass & play, and local party rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
